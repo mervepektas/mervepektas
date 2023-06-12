@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Merve</h1>
+<h1 align="center">Hi there 👋</h1>
 <h3 align="center">Software Developer</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/mervepektas](https://github.com/mervepektas)
